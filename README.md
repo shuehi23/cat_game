@@ -12,7 +12,7 @@ https://reo-cat-game.herokuapp.com
 ・獲得したポイントにより称号が得られる  
 
 # 開発環境
-HTML, CSS, PHP, JQuey
+HTML, CSS, PHP, JavaScript(JQuey)
 
 # 製作者
 [shuhei23](https://github.com/shuehi23)
