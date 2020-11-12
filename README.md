@@ -1,6 +1,6 @@
 # タイトル  
 Get meat challenge  
-https://reo-cat-game.herokuapp.com/
+https://get-meat-challenge.herokuapp.com
 
 # 概要
 オブジェクト指向によるプログラミングで制作したゲームです。  
