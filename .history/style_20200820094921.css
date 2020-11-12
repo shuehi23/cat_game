@@ -110,7 +110,7 @@ div.opening-container .player-container .player-img-area{
 div.opening-container .player-container .player-img-area img{
     width: 100%;
     height: 144px;
-    object-fit: cover;
+    background-size: cover;
 }
 div.opening-container .player-container p{
     font-size: 20px;
