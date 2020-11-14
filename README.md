@@ -15,4 +15,4 @@ https://get-meat-challenge.herokuapp.com
 HTML, CSS, PHP, JavaScript(JQuey)
 
 # 製作者
-[shuhei23](https://github.com/shuehi23)
+[shuhei18](https://github.com/shuhei18)
